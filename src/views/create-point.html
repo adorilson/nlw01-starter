@@ -1,7 +1,7 @@
 {% extends "layout.html" %}
 
 {% block title %}
-    <title>Criar um ponto de coleta com template</title>
+    <title>Criar um ponto de coleta</title>
 {% endblock title %}
 
 {% block styles %}
@@ -27,7 +27,10 @@
                 </div>
                 <div class="field">
                     <label for="name">Imagem da Entidade</label>
-                    <input type="url" name="url" required="required">
+                    <input type="url" 
+                            name="url" 
+                            placeholder="http://"
+                            required="required">
                 </div>
             </div>
 
