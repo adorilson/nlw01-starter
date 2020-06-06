@@ -88,4 +88,8 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+# database local files
+*.db
+
+
 # End of https://www.toptal.com/developers/gitignore/api/node
