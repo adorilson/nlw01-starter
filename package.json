@@ -19,7 +19,7 @@
   "homepage": "https://github.com/adorilson/nlw01-starter#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "nunjucks": "^3.2.1",
+    "nunjucks": "^3.2.4",
     "sqlite3": "^4.2.0"
   },
   "devDependencies": {
